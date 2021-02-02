@@ -72,10 +72,10 @@
 	speed = 1.25
 	#Base Damage of Rapiers.
 	#Range: 0.1 ~ 100.0
-	base_damage = 4.0
+	base_damage = 5.0
 	#Damage Multiplier for Rapiers.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.75
+	damage_multiplier = 1.5
 
 [club]
 	#Disables all recipes for all Clubs.
@@ -173,7 +173,7 @@
 	disable = false
 	#Attack speed of Lances.
 	#Range: 0.0 ~ 4.0
-	speed = 1.25
+	speed = 1.2999999523162842
 	#Base Damage of Lances.
 	#Range: 0.1 ~ 100.0
 	base_damage = 5.0
