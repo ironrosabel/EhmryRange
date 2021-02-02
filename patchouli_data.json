@@ -1,0 +1,22 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    },
+    "resourcefulbees:fifty_shades_of_bees": {
+      "viewedEntries": [
+        "resourcefulbees:bee_guide/bee_spawning"
+      ],
+      "bookmarks": [],
+      "history": [
+        "resourcefulbees:bee_guide/bee_spawning"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

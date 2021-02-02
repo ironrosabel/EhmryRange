@@ -1,0 +1,875 @@
+[00:02:14] [Render thread/INFO]: [CHAT] Made OPGarbage a server operator
+[00:02:45] [Render thread/INFO]: [CHAT] OPGarbage left the game
+[00:06:38] [Render thread/INFO]: getOverrideModel for Diamond Sword (normal)
+[00:06:38] [Render thread/INFO]: - model key sword:sword_blade{diamond},rod{elementalcraft:swift_alloy_ingot},tip{crimson_iron,elementalcraft:swift_alloy_ingot},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #EEB961)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #33EBCB)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #FB7281)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/sword/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/sword/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/sword/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/sword/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Diamond Katana (normal)
+[00:06:38] [Render thread/INFO]: - model key katana:katana_blade{diamond,obsidian,diamond},rod{azure_silver,azure_silver},tip{emerald,crimson_iron},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #3BC4BA)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #3DBF56)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/katana/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/katana/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/katana/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/katana/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Platinum Machete (normal)
+[00:06:38] [Render thread/INFO]: - model key machete:machete_blade{platinum,emerald},rod{blaze_gold},tip{blaze_gold},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #E48534)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #9FC6EF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_smooth (tip, #E48534)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/machete/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/machete/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/machete/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_smooth -> silentgear:item/machete/tip_smooth
+[00:06:38] [Render thread/INFO]: getOverrideModel for Platinum Spear (normal)
+[00:06:38] [Render thread/INFO]: - model key spear:spear_tip{platinum},rod{azure_silver,emerald},tip{emerald},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #B4CCEF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #B3B3FF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #00B038)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/spear/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/spear/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/spear/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/spear/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Diamond Knife (normal)
+[00:06:38] [Render thread/INFO]: - model key knife:knife_blade{diamond,platinum,elementalcraft:swift_alloy_ingot},rod{crimson_iron,elementalcraft:swift_alloy_ingot},tip{emerald,blaze_gold},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #FB7281)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #70F0EB)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #32BA3D)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/knife/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/knife/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/knife/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/knife/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Azure Silver Dagger (normal)
+[00:06:38] [Render thread/INFO]: - model key dagger:dagger_blade{azure_silver,diamond,uranium},rod{azure_silver},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #A4E4F9)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/dagger/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/dagger/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/dagger/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Emerald Pickaxe (normal)
+[00:06:38] [Render thread/INFO]: - model key pickaxe:pickaxe_head{emerald,azure_silver,blaze_gold},rod{uranium,obsidian},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #55CA81)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/pickaxe/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/pickaxe/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/pickaxe/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Uranium Shovel (normal)
+[00:06:38] [Render thread/INFO]: - model key shovel:shovel_head{uranium},rod{uranium,obsidian},tip{blaze_gold,azure_silver},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #21FF0F)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_smooth (tip, #E99560)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/shovel/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/shovel/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/shovel/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_smooth -> silentgear:item/shovel/tip_smooth
+[00:06:38] [Render thread/INFO]: getOverrideModel for Blaze Gold Axe (normal)
+[00:06:38] [Render thread/INFO]: - model key axe:axe_head{blaze_gold,blaze_gold},rod{obsidian},tip{elementalcraft:swift_alloy_ingot,crimson_iron},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #443464)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #E48534)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #F1A769)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/axe/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/axe/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/axe/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/axe/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Crimson Iron Paxel (normal)
+[00:06:38] [Render thread/INFO]: - model key paxel:paxel_head{crimson_iron,elementalcraft:swift_alloy_ingot,azure_silver},rod{elementalcraft:swift_alloy_ingot,uranium},tip{elementalcraft:swift_alloy_ingot,elementalcraft:swift_alloy_ingot},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #EEF161)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #FA8288)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #EEB961)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/paxel/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/paxel/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/paxel/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/paxel/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Uranium Hammer (normal)
+[00:06:38] [Render thread/INFO]: - model key hammer:hammer_head{uranium,blaze_gold},rod{elementalcraft:swift_alloy_ingot},tip{azure_silver,crimson_iron},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #EEB961)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #4EF917)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #EBB9FF)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/hammer/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/hammer/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/hammer/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/hammer/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Platinum Excavator (normal)
+[00:06:38] [Render thread/INFO]: - model key excavator:excavator_head{platinum,azure_silver},rod{azure_silver},tip{emerald},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #B7B4FF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #00B038)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/excavator/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/excavator/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/excavator/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/excavator/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Blaze Gold Saw (normal)
+[00:06:38] [Render thread/INFO]: - model key saw:saw_blade{blaze_gold},rod{diamond},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #33EBCB)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #E48534)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/saw/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/saw/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/saw/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Emerald Prospector Hammer (normal)
+[00:06:38] [Render thread/INFO]: - model key prospector_hammer:prospector_hammer_head{emerald,obsidian},rod{uranium,obsidian},tip{crimson_iron},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #0DA044)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #FF6189)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/prospector_hammer/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/prospector_hammer/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/prospector_hammer/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/prospector_hammer/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Blaze Gold Mattock (normal)
+[00:06:38] [Render thread/INFO]: - model key mattock:mattock_head{blaze_gold,blaze_gold},rod{uranium},tip{azure_silver},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #21FF0F)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #E48534)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/mattock/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/mattock/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/mattock/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/mattock/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for material.elementalcraft.swift_alloy_ingot Sickle (normal)
+[00:06:38] [Render thread/INFO]: - model key sickle:sickle_blade{elementalcraft:swift_alloy_ingot,crimson_iron},rod{blaze_gold},tip{emerald,elementalcraft:swift_alloy_ingot},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #E48534)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #F1A769)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #32BC44)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/sickle/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/sickle/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/sickle/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Azure Silver Shears (normal)
+[00:06:38] [Render thread/INFO]: - model key shears:shears_blades{azure_silver},rod{obsidian},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #443464)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/shears/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/shears/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/shears/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for material.elementalcraft.swift_alloy_ingot Bow (normal)
+[00:06:38] [Render thread/INFO]: - model key bow:bow_limbs{elementalcraft:swift_alloy_ingot},rod{obsidian,diamond},bowstring{flax},tip{emerald,emerald},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #435D7F)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #EEB961)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:bowstring_string (bowstring, #845E37)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:arrow (bowstring, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #00B038)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/bow/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/bow/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:bowstring_string -> silentgear:item/bow/bowstring_string
+[00:06:38] [Render thread/INFO]:   - silentgear:arrow -> silentgear:item/bow/arrow
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/bow/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Emerald Crossbow (normal)
+[00:06:38] [Render thread/INFO]: - model key crossbow:crossbow_limbs{emerald,obsidian},rod{crimson_iron},bowstring{sinew,string},tip{diamond},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #FF6189)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #0DA044)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:bowstring_string (bowstring, #978781)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:arrow (bowstring, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #33EBCB)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/crossbow/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/crossbow/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/crossbow/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:bowstring_string -> silentgear:item/crossbow/bowstring_string
+[00:06:38] [Render thread/INFO]:   - silentgear:arrow -> silentgear:item/crossbow/arrow
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/crossbow/tip_sharp
+[00:06:38] [Render thread/INFO]: getOverrideModel for Azure Silver Slingshot (normal)
+[00:06:38] [Render thread/INFO]: - model key slingshot:slingshot_limbs{azure_silver},rod{obsidian},bowstring{elementalcraft:air_silk},tip{blaze_gold,diamond},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #443464)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:bowstring_string (bowstring, #845E37)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:arrow (bowstring, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:tip_smooth (tip, #E5B661)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/slingshot/rod_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/slingshot/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/slingshot/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:bowstring_string -> silentgear:item/slingshot/bowstring_string
+[00:06:38] [Render thread/INFO]:   - silentgear:arrow -> silentgear:item/slingshot/arrow
+[00:06:38] [Render thread/INFO]:   - silentgear:tip_smooth -> silentgear:item/slingshot/tip_smooth
+[00:06:38] [Render thread/INFO]: getOverrideModel for Azure Silver Arrow (normal)
+[00:06:38] [Render thread/INFO]: - model key arrow:arrow_heads{azure_silver},rod{blaze_gold,platinum},fletching{leaves},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #E99862)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:fletching_generic (fletching, #4A8F28)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #CBBAFF)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/arrow/rod_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:fletching_generic -> silentgear:item/arrow/fletching_generic
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/arrow/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/arrow/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Emerald Helmet (normal)
+[00:06:38] [Render thread/INFO]: - model key helmet:helmet_plates{emerald,blaze_gold,uranium},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #4DC43B)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/helmet/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/helmet/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Azure Silver Chestplate (normal)
+[00:06:38] [Render thread/INFO]: - model key chestplate:chestplate_plates{azure_silver,elementalcraft:swift_alloy_ingot,blaze_gold},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #F8D1E2)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/chestplate/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/chestplate/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for material.elementalcraft.swift_alloy_ingot Leggings (normal)
+[00:06:38] [Render thread/INFO]: - model key leggings:legging_plates{elementalcraft:swift_alloy_ingot},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #EEB961)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/leggings/main_generic_hc
+[00:06:38] [Render thread/INFO]: getOverrideModel for Blaze Gold Boots (normal)
+[00:06:38] [Render thread/INFO]: - model key boots:boot_plates{blaze_gold,elementalcraft:swift_alloy_ingot,azure_silver},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #E89950)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/boots/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/boots/_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Obsidian Elytra (normal)
+[00:06:38] [Render thread/INFO]: - model key elytra:elytra_wings{obsidian,diamond},binding{sinew,string},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_lc (main, #435D7F)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:binding_generic (binding, #DFAD7B)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_lc -> silentgear:item/elytra/main_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:binding_generic -> silentgear:item/elytra/binding_generic
+[00:06:38] [Render thread/INFO]: getOverrideModel for Obsidian Ring (normal)
+[00:06:38] [Render thread/INFO]: - model key ring:ring_shank{obsidian,azure_silver},adornment{diamond},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_lc (main, #5F4E83)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:adornment_generic (adornment, #33EBCB)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:adornment_highlight (adornment, #33EBCB)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_lc -> silentgear:item/ring/main_generic_lc
+[00:06:38] [Render thread/INFO]:   - silentgear:adornment_generic -> silentgear:item/ring/adornment_generic
+[00:06:38] [Render thread/INFO]:   - silentgear:adornment_highlight -> silentgear:item/ring/adornment_highlight
+[00:06:38] [Render thread/INFO]: getOverrideModel for Diamond Bracelet (normal)
+[00:06:38] [Render thread/INFO]: - model key bracelet:bracelet_band{diamond,platinum},adornment{diamond,prismarine},
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #51EFE4)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:adornment_generic (adornment, #45E3C7)
+[00:06:38] [Render thread/INFO]:   - add layer silentgear:adornment_highlight (adornment, #45E3C7)
+[00:06:38] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/bracelet/main_generic_hc
+[00:06:38] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/bracelet/_highlight
+[00:06:38] [Render thread/INFO]:   - silentgear:adornment_generic -> silentgear:item/bracelet/adornment_generic
+[00:06:38] [Render thread/INFO]:   - silentgear:adornment_highlight -> silentgear:item/bracelet/adornment_highlight
+[00:06:39] [Render thread/INFO]: [CHAT] OPGarbage joined the game
+[00:07:36] [Render thread/INFO]: [CHAT] <OPGarbage> fart
+[00:11:17] [Render thread/INFO]: [CHAT] Set own game mode to Creative Mode
+[00:16:38] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
+[00:20:37] [Render thread/INFO]: [CHAT] [OPGarbage: Set own game mode to Creative Mode]
+[00:20:44] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [The Fourth Horseman]
+[00:21:40] [Render thread/INFO]: getOverrideModel for Diamond Sword (normal)
+[00:21:40] [Render thread/INFO]: - model key sword:sword_blade{diamond},rod{elementalcraft:swift_alloy_ingot},tip{crimson_iron,elementalcraft:swift_alloy_ingot},
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #EEB961)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #33EBCB)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #FB7281)
+[00:21:40] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/sword/rod_generic_lc
+[00:21:40] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/sword/main_generic_hc
+[00:21:40] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/sword/_highlight
+[00:21:40] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/sword/tip_sharp
+[00:21:40] [Render thread/INFO]: getOverrideModel for material.elementalcraft.swift_alloy_ingot Sickle (normal)
+[00:21:40] [Render thread/INFO]: - model key sickle:sickle_blade{elementalcraft:swift_alloy_ingot,crimson_iron},rod{blaze_gold},tip{emerald,elementalcraft:swift_alloy_ingot},
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #E48534)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #F1A769)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #32BC44)
+[00:21:40] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/sickle/rod_generic_hc
+[00:21:40] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/sickle/main_generic_hc
+[00:21:40] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/sickle/tip_sharp
+[00:21:40] [Render thread/INFO]: getOverrideModel for material.elementalcraft.swift_alloy_ingot Bow (normal)
+[00:21:40] [Render thread/INFO]: - model key bow:bow_limbs{elementalcraft:swift_alloy_ingot},rod{obsidian,diamond},bowstring{flax},tip{emerald,emerald},
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #435D7F)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #EEB961)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:bowstring_string (bowstring, #845E37)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:arrow (bowstring, colorless)
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #00B038)
+[00:21:40] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/bow/rod_generic_lc
+[00:21:40] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/bow/main_generic_hc
+[00:21:40] [Render thread/INFO]:   - silentgear:bowstring_string -> silentgear:item/bow/bowstring_string
+[00:21:40] [Render thread/INFO]:   - silentgear:arrow -> silentgear:item/bow/arrow
+[00:21:40] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/bow/tip_sharp
+[00:21:40] [Render thread/INFO]: getOverrideModel for material.elementalcraft.swift_alloy_ingot Leggings (normal)
+[00:21:40] [Render thread/INFO]: - model key leggings:legging_plates{elementalcraft:swift_alloy_ingot},
+[00:21:40] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #EEB961)
+[00:21:40] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/leggings/main_generic_hc
+[00:22:44] [Render thread/INFO]: getOverrideModel for Emerald Pickaxe (normal)
+[00:22:44] [Render thread/INFO]: - model key pickaxe:pickaxe_head{emerald,azure_silver,blaze_gold},rod{uranium,obsidian},
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #55CA81)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:22:44] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/pickaxe/rod_generic_hc
+[00:22:44] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/pickaxe/main_generic_hc
+[00:22:44] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/pickaxe/_highlight
+[00:22:44] [Render thread/INFO]: getOverrideModel for Emerald Prospector Hammer (normal)
+[00:22:44] [Render thread/INFO]: - model key prospector_hammer:prospector_hammer_head{emerald,obsidian},rod{uranium,obsidian},tip{crimson_iron},
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #0DA044)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #FF6189)
+[00:22:44] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/prospector_hammer/rod_generic_hc
+[00:22:44] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/prospector_hammer/main_generic_hc
+[00:22:44] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/prospector_hammer/_highlight
+[00:22:44] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/prospector_hammer/tip_sharp
+[00:22:44] [Render thread/INFO]: getOverrideModel for Emerald Crossbow (normal)
+[00:22:44] [Render thread/INFO]: - model key crossbow:crossbow_limbs{emerald,obsidian},rod{crimson_iron},bowstring{sinew,string},tip{diamond},
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #FF6189)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #0DA044)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:bowstring_string (bowstring, #978781)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:arrow (bowstring, colorless)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #33EBCB)
+[00:22:44] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/crossbow/rod_generic_lc
+[00:22:44] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/crossbow/main_generic_hc
+[00:22:44] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/crossbow/_highlight
+[00:22:44] [Render thread/INFO]:   - silentgear:bowstring_string -> silentgear:item/crossbow/bowstring_string
+[00:22:44] [Render thread/INFO]:   - silentgear:arrow -> silentgear:item/crossbow/arrow
+[00:22:44] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/crossbow/tip_sharp
+[00:22:44] [Render thread/INFO]: getOverrideModel for Emerald Helmet (normal)
+[00:22:44] [Render thread/INFO]: - model key helmet:helmet_plates{emerald,blaze_gold,uranium},
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #4DC43B)
+[00:22:44] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:22:44] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/helmet/main_generic_hc
+[00:22:44] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/helmet/_highlight
+[00:23:30] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Captured]
+[00:24:04] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Best Friends Forever]
+[00:25:50] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [A Cut Above the Rest]
+[00:27:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:27:53] [Render thread/INFO]: [CHAT] [OPGarbage: Teleported OPGarbage to moondiver_tohru]
+[00:29:15] [Render thread/INFO]: [CHAT] [OPGarbage: Teleported OPGarbage to moondiver_tohru]
+[00:30:10] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Monster Hunter]
+[00:32:56] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Diamonds!]
+[00:33:15] [Render thread/INFO]: [CHAT] [OPGarbage: Set own game mode to Survival Mode]
+[00:35:10] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [I AM THE CURE!]
+[00:36:15] [Render thread/INFO]: getOverrideModel for Uranium Shovel (normal)
+[00:36:15] [Render thread/INFO]: - model key shovel:shovel_head{uranium},rod{uranium,obsidian},tip{blaze_gold,azure_silver},
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #21FF0F)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:tip_smooth (tip, #E99560)
+[00:36:15] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/shovel/rod_generic_hc
+[00:36:15] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/shovel/main_generic_hc
+[00:36:15] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/shovel/_highlight
+[00:36:15] [Render thread/INFO]:   - silentgear:tip_smooth -> silentgear:item/shovel/tip_smooth
+[00:36:15] [Render thread/INFO]: getOverrideModel for Azure Silver Slingshot (normal)
+[00:36:15] [Render thread/INFO]: - model key slingshot:slingshot_limbs{azure_silver},rod{obsidian},bowstring{elementalcraft:air_silk},tip{blaze_gold,diamond},
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #443464)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #CBBAFF)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:bowstring_string (bowstring, #845E37)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:arrow (bowstring, colorless)
+[00:36:15] [Render thread/INFO]:   - add layer silentgear:tip_smooth (tip, #E5B661)
+[00:36:15] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/slingshot/rod_generic_lc
+[00:36:15] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/slingshot/main_generic_hc
+[00:36:15] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/slingshot/_highlight
+[00:36:15] [Render thread/INFO]:   - silentgear:bowstring_string -> silentgear:item/slingshot/bowstring_string
+[00:36:15] [Render thread/INFO]:   - silentgear:arrow -> silentgear:item/slingshot/arrow
+[00:36:15] [Render thread/INFO]:   - silentgear:tip_smooth -> silentgear:item/slingshot/tip_smooth
+[00:38:59] [Render thread/INFO]: [CHAT] Server backup done in 00:05! (158.5MB | 981.4MB)
+[00:41:59] [Render thread/INFO]: [CHAT] OPGarbage has completed the challenge [Anyone Can Cook]
+[00:45:43] [Render thread/INFO]: [CHAT] Teleport request sent to OPGarbage.
+[00:45:48] [Render thread/INFO]: [CHAT] Teleport request to OPGarbage was accepted.
+[00:45:57] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [The Folks Living at Heights]
+[00:45:59] [Render thread/INFO]: [CHAT] moondiver_tohru has made the advancement [The Folks Living at Heights]
+[00:45:59] [Render thread/INFO]: Loaded 1512 advancements
+[00:46:29] [Render thread/INFO]: [CHAT] Perk and tool abilities are now disabled
+[00:46:31] [Render thread/INFO]: [CHAT] Perk and tool abilities are now enabled
+[00:47:20] [Render thread/INFO]: Villager VillagerEntity['Farmer'/46290, l='ClientLevel', x=661.70, y=105.00, z=72.70] died, message: 'Farmer died'
+[00:50:37] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Sea? Not a Problem]
+[00:50:48] [Render thread/INFO]: Loaded 1513 advancements
+[00:50:51] [Render thread/INFO]: Loaded 1528 advancements
+[00:51:38] [Render thread/INFO]: Loaded 1528 advancements
+[00:52:06] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Dragonslayer]
+[00:55:21] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Luscious Surroundings]
+[00:58:32] [Render thread/INFO]: [CHAT] moondiver_tohru has made the advancement [Tie me to the Mast]
+[00:58:32] [Render thread/INFO]: Loaded 1528 advancements
+[00:58:58] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:58:59] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:00] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:01] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:02] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:04] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:05] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:05] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:05] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:05] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:05] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:06] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:07] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:08] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:09] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/INFO]: [CHAT] OPGarbage has made the advancement [Tie me to the Mast]
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:11] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:12] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:13] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:14] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:15] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/INFO]: [CHAT] moondiver_tohru has made the advancement [Sea? Not a Problem]
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/INFO]: Loaded 1529 advancements
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:16] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:19] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:20] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[00:59:49] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:01:48] [Render thread/INFO]: [CHAT] OPGarbage left the game
+[01:09:44] [Render thread/INFO]: getOverrideModel for Crimson Iron Paxel (normal)
+[01:09:44] [Render thread/INFO]: - model key paxel:paxel_head{crimson_iron,elementalcraft:swift_alloy_ingot,azure_silver},rod{elementalcraft:swift_alloy_ingot,uranium},tip{elementalcraft:swift_alloy_ingot,elementalcraft:swift_alloy_ingot},
+[01:09:44] [Render thread/INFO]:   - add layer silentgear:rod_generic_lc (rod, #EEF161)
+[01:09:44] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #FA8288)
+[01:09:44] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[01:09:44] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #EEB961)
+[01:09:44] [Render thread/INFO]:   - silentgear:rod_generic_lc -> silentgear:item/paxel/rod_generic_lc
+[01:09:44] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/paxel/main_generic_hc
+[01:09:44] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/paxel/_highlight
+[01:09:44] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/paxel/tip_sharp
+[01:09:49] [Render thread/WARN]: Recipe registry plugin is slow, took 15.23 ms. class mezz.jei.recipes.InternalRecipeManagerPlugin
+[01:12:28] [Render thread/INFO]: getOverrideModel for Uranium Shovel (normal)
+[01:12:28] [Render thread/INFO]: - model key shovel:shovel_head{uranium},rod{uranium,obsidian},tip{blaze_gold,azure_silver},
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #21FF0F)
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:tip_smooth (tip, #E99560)
+[01:12:28] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/shovel/rod_generic_hc
+[01:12:28] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/shovel/main_generic_hc
+[01:12:28] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/shovel/_highlight
+[01:12:28] [Render thread/INFO]:   - silentgear:tip_smooth -> silentgear:item/shovel/tip_smooth
+[01:12:28] [Render thread/INFO]: getOverrideModel for Emerald Prospector Hammer (normal)
+[01:12:28] [Render thread/INFO]: - model key prospector_hammer:prospector_hammer_head{emerald,obsidian},rod{uranium,obsidian},tip{crimson_iron},
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:rod_generic_hc (rod, #29E021)
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:main_generic_hc (main, #0DA044)
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:_highlight (main, colorless)
+[01:12:28] [Render thread/INFO]:   - add layer silentgear:tip_sharp (tip, #FF6189)
+[01:12:28] [Render thread/INFO]:   - silentgear:rod_generic_hc -> silentgear:item/prospector_hammer/rod_generic_hc
+[01:12:28] [Render thread/INFO]:   - silentgear:main_generic_hc -> silentgear:item/prospector_hammer/main_generic_hc
+[01:12:28] [Render thread/INFO]:   - silentgear:_highlight -> silentgear:item/prospector_hammer/_highlight
+[01:12:28] [Render thread/INFO]:   - silentgear:tip_sharp -> silentgear:item/prospector_hammer/tip_sharp
+[01:16:33] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:16:43] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:16:44] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:17:10] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:17:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:17:17] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:17:18] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:17:31] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:17:32] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[01:18:22] [Render thread/INFO]: [CHAT] moondiver_tohru has made the advancement [Book of Monsters]
+[01:18:22] [Render thread/INFO]: Loaded 1538 advancements
+[01:21:19] [Render thread/INFO]: Client cache cleared!
+[01:21:19] [Render thread/INFO]: Starting action 'stop'
+[01:21:20] [Render thread/INFO]: Action 'AudioEffectLibrary::stop' took 1107msecs
+[01:21:20] [Render thread/INFO]: Action 'DimensionLibrary::stop' took 0msecs
+[01:21:20] [Render thread/INFO]: Action 'BiomeLibrary::stop' took 4msecs
+[01:21:20] [Render thread/INFO]: Action 'BlockStateLibrary::stop' took 18msecs
+[01:21:20] [Render thread/INFO]: Action 'MobEffectsLibrary::stop' took 0msecs
+[01:21:20] [Render thread/INFO]: Action 'ItemLibrary::stop' took 0msecs
+[01:21:20] [Render thread/INFO]: Action 'FootstepLibrary::stop' took 16msecs
+[01:21:20] [Render thread/INFO]: Overall Action 'stop' took 1148msecs
+[01:21:31] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 11 msecs
+[01:21:34] [Netty Client IO #0/INFO]: Client has mods that are missing on server: [jeresources, jeienchantmentinfo, invtweaks, craftingtweaks, mousetweaks, quarkoplenty]
+[01:21:36] [Render thread/INFO]: Stopping!
+[01:21:36] [Render thread/INFO]: Client cache cleared!
+[01:21:36] [Render thread/INFO]: Starting action 'stop'
+[01:21:36] [Render thread/INFO]: Action 'AudioEffectLibrary::stop' took 16msecs
+[01:21:36] [Render thread/INFO]: Action 'DimensionLibrary::stop' took 0msecs
+[01:21:36] [Render thread/INFO]: Action 'BiomeLibrary::stop' took 0msecs
+[01:21:36] [Render thread/INFO]: Action 'BlockStateLibrary::stop' took 17msecs
+[01:21:36] [Render thread/INFO]: Action 'MobEffectsLibrary::stop' took 0msecs
+[01:21:36] [Render thread/INFO]: Action 'ItemLibrary::stop' took 0msecs
+[01:21:36] [Render thread/INFO]: Action 'FootstepLibrary::stop' took 14msecs
+[01:21:36] [Render thread/INFO]: Overall Action 'stop' took 48msecs
+[01:21:37] [Discord Rich Presence Stop Thread/INFO]: Discord client closed.
