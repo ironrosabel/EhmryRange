@@ -10,7 +10,7 @@
 	#Magic Mirror settings
 	[items.magic_mirror]
 		#Can magic/wormhole mirrors and recall potions recall interdimensionally?
-		magic_mirror_interdimensional = false
+		magic_mirror_interdimensional = true
 
 	#Broken Heart settings
 	[items.broken_heart]
