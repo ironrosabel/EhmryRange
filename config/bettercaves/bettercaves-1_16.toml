@@ -29,7 +29,7 @@
 			#     Larger = more cave interconnectivity for a given area, but less variation.
 			# Accepted values: Small, Medium, Large, ExtraLarge, Custom
 			# Default: Small (recommended).
-			"Cave Region Size" = "Small"
+			"Cave Region Size" = "Medium"
 			# Custom value for cave region size. Smaller value = larger regions. This value is very sensitive to change.
 			#     ONLY WORKS IF Cave Region Size IS Custom.
 			#     Provided values:
@@ -101,7 +101,7 @@
 				# Determines how frequently Type 2 Caves spawn. 0 = will not spawn at all.
 				# Default: 5
 				#Range: 0 ~ 10
-				"Type 2 Cave Priority" = 5
+				"Type 2 Cave Priority" = 8
 
 			###########################################################################################################
 			## Settings used in the generation of vanilla-like caves near the surface.
