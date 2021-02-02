@@ -29,7 +29,7 @@
 		#Set false to disable enchantment
 		magnet = false
 		#Set false to disable enchantment
-		multishot = true
+		multishot = false
 		#Set false to disable enchantment
 		ender = false
 		#Set false to disable enchantment
@@ -168,6 +168,9 @@
 			#Experience given when eating a poisoned heart
 			#Range: 0 ~ 99999
 			experience = 500
+			#Maximum number of hearts that can be attained (including initial 10)
+			#Range: 1 ~ 200
+			maximum = 100
 
 	#####################################################################################
 	# Block specific configs
