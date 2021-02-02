@@ -347,7 +347,7 @@
 
 		[elementalcraft.interaction.mekanism]
 			#Enable interaction with mekanism.
-			mekanismInteracionEnabled = true
+			mekanismInteracionEnabled = false
 			#The dimishing amount multiplier when using pure ore in mekanism. it prevent an exploit.
 			#Range: 0.0 ~ 1.0
 			mekanismPureOreDimishingAmount = 0.8
