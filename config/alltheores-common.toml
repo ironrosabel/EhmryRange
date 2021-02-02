@@ -9,17 +9,17 @@
 	#Enable Nickel Worldgen
 	nickel = true
 	#Enable Osmium Worldgen
-	osmium = true
+	osmium = false
 	#Enable Platinum Worldgen
-	platinum = true
+	platinum = false
 	#Enable Silver Worldgen
 	silver = true
 	#Enable Tin Worldgen
-	tin = true
+	tin = false
 	#Enable Uranium Worldgen
-	uranium = true
+	uranium = false
 	#Enable Zinc Worldgen
-	zinc = true
+	zinc = false
 
 [spawntuning]
 
