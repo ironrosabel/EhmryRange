@@ -17,7 +17,7 @@
 	disable = false
 	#Attack speed of Longswords.
 	#Range: 0.0 ~ 4.0
-	speed = 1.399999976158142
+	speed = 1.5
 	#Base Damage of Longswords.
 	#Range: 0.1 ~ 100.0
 	base_damage = 4.5
@@ -69,13 +69,13 @@
 	disable = false
 	#Attack speed of Rapiers.
 	#Range: 0.0 ~ 4.0
-	speed = 1.25
+	speed = 1.2
 	#Base Damage of Rapiers.
 	#Range: 0.1 ~ 100.0
-	base_damage = 5.0
+	base_damage = 2.5
 	#Damage Multiplier for Rapiers.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.5
+	damage_multiplier = 3
 
 [club]
 	#Disables all recipes for all Clubs.
@@ -88,7 +88,7 @@
 	base_damage = 4.0
 	#Damage Multiplier for Clubs.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.0
+	damage_multiplier = 2.0
 
 [cestus]
 	#Disables all recipes for all Cestusae.
@@ -101,14 +101,14 @@
 	base_damage = 2.0
 	#Damage Multiplier for Cestusae.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 0.5
+	damage_multiplier = 1.0
 
 [battle_hammer]
 	#Disables all recipes for all Battle Hammers.
 	disable = false
 	#Attack speed of Battle Hammers.
 	#Range: 0.0 ~ 4.0
-	speed = 0.800000011920929
+	speed = 1.0
 	#Base Damage of Battle Hammers.
 	#Range: 0.1 ~ 100.0
 	base_damage = 5.0
@@ -147,26 +147,26 @@
 	disable = false
 	#Attack speed of Halberds.
 	#Range: 0.0 ~ 4.0
-	speed = 1.2000000476837158
+	speed = 1.3
 	#Base Damage of Halberds.
 	#Range: 0.1 ~ 100.0
-	base_damage = 5.0
+	base_damage = 4.0
 	#Damage Multiplier for Halberds.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.5
+	damage_multiplier = 3.0
 
 [pike]
 	#Disables all recipes for all Pikes.
 	disable = false
 	#Attack speed of Pikes.
 	#Range: 0.0 ~ 4.0
-	speed = 1.399999976158142
+	speed = 1.3
 	#Base Damage of Pikes.
 	#Range: 0.1 ~ 100.0
 	base_damage = 4.0
 	#Damage Multiplier for Pikes.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.0
+	damage_multiplier = 1.5
 
 [lance]
 	#Disables all recipes for all Lances.
@@ -176,10 +176,10 @@
 	speed = 1.2999999523162842
 	#Base Damage of Lances.
 	#Range: 0.1 ~ 100.0
-	base_damage = 5.0
+	base_damage = 5.5
 	#Damage Multiplier for Lances.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.0
+	damage_multiplier = 1.5
 
 [longbow]
 	#Disables all recipes for all Longbows.
@@ -272,7 +272,7 @@
 	disable = false
 	#Attack speed of Glaives.
 	#Range: 0.0 ~ 4.0
-	speed = 1.0
+	speed = 1.3
 	#Base Damage of Glaives.
 	#Range: 0.1 ~ 100.0
 	base_damage = 4.0
@@ -285,13 +285,13 @@
 	disable = false
 	#Attack speed of Quarterstaves.
 	#Range: 0.0 ~ 4.0
-	speed = 1.399999976158142
+	speed = 2.0
 	#Base Damage of Quarterstaves.
 	#Range: 0.1 ~ 100.0
-	base_damage = 3.0
+	base_damage = 1.5
 	#Damage Multiplier for Quarterstaves.
 	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.5
+	damage_multiplier = 2.0
 
 [copper]
 	#Base Damage for copper weapons
