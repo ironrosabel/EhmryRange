@@ -32,7 +32,7 @@
 	prosperitySpawnRate = 12
 	#The maximum amount of Prosperity Ore blocks that can spawn in a vein.
 	#Range: 0 ~ 64
-	prosperitySpawnSize = 8
+	prosperitySpawnSize = 12
 	#The maximum Y level that Prosperity Ore veins can spawn.
 	#Range: 0 ~ 256
 	prosperitySpawnHeight = 50

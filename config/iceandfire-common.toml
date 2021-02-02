@@ -25,7 +25,7 @@
 	"Generate Dragon Caves" = true
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Generate Dragon Cave Chance" = 180
+	"Generate Dragon Cave Chance" = 300
 	#Whether to generate dragon roosts or not
 	"Generate Dragon Roosts" = true
 	#1 out of this number chance per chunk for generation
@@ -61,19 +61,19 @@
 	"Dragon Flute Distance" = 4
 	#Max dragon health. Health is scaled to this
 	#Range: 1.0 ~ 100000.0
-	"Dragon Health" = 500.0
+	"Dragon Health" = 1000.0
 	#Max dragon attack damage. Attack Damage is scaled to this
 	#Range: 1 ~ 10000
-	"Dragon Attack Damage" = 17
+	"Dragon Attack Damage" = 30
 	#Damage dealt from a successful fire breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 	#Range: 0.0 ~ 10000.0
-	"Dragon Attack Damage(Fire breath)" = 2.0
+	"Dragon Attack Damage(Fire breath)" = 3.0
 	#Damage dealt from a successful ice breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 	#Range: 0.0 ~ 10000.0
-	"Dragon Attack Damage(Ice breath)" = 2.5
+	"Dragon Attack Damage(Ice breath)" = 5.0
 	#Damage dealt from a successful lightning breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 	#Range: 0.0 ~ 10000.0
-	"Dragon Attack Damage(Lightning breath)" = 3.5
+	"Dragon Attack Damage(Lightning breath)" = 6.0
 	#How high dragons can fly, in Y height.
 	#Range: > 100
 	"Max Dragon Flight Height" = 128
@@ -81,7 +81,7 @@
 	#Range: 0 ~ 10000
 	"Dragon Gold Search Length" = 30
 	#True if dragons can despawn. Note that if this is false there may be SERIOUS lag issues.
-	"Dragons Despawn" = true
+	"Dragons Despawn" = false
 	#True if tamed dragons go to sleep at night.
 	"Tamed Dragons Sleep" = true
 	#True if dragons can break blocks if they get stuck. Turn this off if your dragons randomly explode.
@@ -105,7 +105,7 @@
 	"Dragon Hunger Tick Rate" = 3000
 	#Every interval of this number in ticks, dragon allowed to break blocks.
 	#Range: 0 ~ 10000
-	"Dragon Block Break Cooldown" = 5
+	"Dragon Block Break Cooldown" = 60
 	#True if villagers should run away and hide from dragons and other hostile Ice and Fire mobs.
 	"Villagers Fear Dragons" = true
 	#True if animals should run away and hide from dragons and other hostile Ice and Fire mobs.
@@ -161,7 +161,7 @@
 	"Cyclops Griefing" = true
 	#Maximum siren health
 	#Range: 1.0 ~ 10000.0
-	"Siren Max Health" = 50.0
+	"Siren Max Health" = 150.0
 	#True if siren islands are allowed to spawn
 	"Spawn Sirens" = true
 	#True to make the screen pink when sirens attract players
@@ -245,7 +245,7 @@
 	"Trolls Drop Weapon" = true
 	#Troll spawn weight. Lower = lower chance to spawn
 	#Range: 1 ~ 10000
-	"Troll Spawn Weight" = 4
+	"Troll Spawn Weight" = 8
 	#A double check to see if the game can spawn trolls. Higher number = lower chance to spawn.
 	#Range: 0 ~ 10000
 	"Troll Spawn Check Chance" = 0
@@ -303,7 +303,7 @@
 	"Sea Serpent Griefing" = true
 	#Default sea serpent health, this is scaled to the sea serpent's particular size
 	#Range: 1.0 ~ 10000.0
-	"Sea Serpent Base Health" = 20.0
+	"Sea Serpent Base Health" = 50.0
 	#Default sea serpent attack strength, this is scaled to the sea serpent's particular size
 	#Range: 1.0 ~ 10000.0
 	"Sea Serpent Base Attack Strength" = 4.0
@@ -340,12 +340,12 @@
 	"Generate Hydra Caves" = true
 	#One out of this number chance per chunk to generate a hydra cave.
 	#Range: 1 ~ 10000
-	"Hydra Caves Gen Chance" = 100
+	"Hydra Caves Gen Chance" = 150
 	#True if the summon crystal can load chunks to find dragons.
 	"Chunk Load Summon Crystal" = true
 	#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn(0, 0).
 	#Range: 1 ~ 10000
-	"Dangerous World Gen Dist From Spawn" = 800
+	"Dangerous World Gen Dist From Spawn" = 1500
 	#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 	#Range: 1 ~ 10000
 	"Dangerous World Gen Dist Seperation" = 300
