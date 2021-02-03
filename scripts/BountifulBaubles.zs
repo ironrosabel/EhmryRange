@@ -7,7 +7,7 @@ craftingTable.removeRecipe(<item:bountifulbaubles:wormhole_mirror>);
 
 craftingTable.addShaped("magic_mirror", <item:bountifulbaubles:magic_mirror>, [
     [<item:bountifulbaubles:potion_recall>, <item:bountifulbaubles:potion_recall>, <item:bountifulbaubles:potion_recall>],
-    [<item:minecraft:glass>, <item:xreliquary:nebulous_heart>, <item:minecraft:glass>],
+    [<tag:items:forge:glass>, <item:xreliquary:nebulous_heart>, <tag:items:forge:glass>],
     [<item:minecraft:diamond>, <item:bountifulbaubles:resplendent_token>, <item:minecraft:diamond>]]);
 	
 craftingTable.addShaped("wormhole_mirror", <item:bountifulbaubles:wormhole_mirror>, [
