@@ -33,9 +33,9 @@
 		#Set false to disable enchantment
 		ender = false
 		#Set false to disable enchantment
-		quickshot = true
+		quickshot = false
 		#Set false to disable enchantment
-		reach = true
+		reach = false
 		#Set false to disable enchantment
 		step = true
 		#Set false to disable enchantment
@@ -43,7 +43,7 @@
 		#Set false to disable enchantment
 		venom = false
 		#Set false to disable enchantment
-		experience_boost = true
+		experience_boost = false
 		#Beheading enchant add player skin head drop, add any mob id and any skin
 		beheadingEntityMHF = []
 
