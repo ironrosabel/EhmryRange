@@ -24,13 +24,17 @@
     "mainOutputCount": 1
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "tag:OVERWORLD",
     "biomeBlacklist": "tag:ocean",
     "lightLevel": "NIGHT"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "parent1": "redstone",
+    "parent2": "zombie",
+    "feedItem": "minecraft:tnt"
+
   },
   "TraitData": {
     "hasTraits": true

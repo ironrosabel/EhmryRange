@@ -19,12 +19,14 @@
     "mainOutputWeight": 0.50
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "TAG:Mountain,Hills"
   },
   "BreedData": {
     "isBreedable": true,
-    "spawnWeight": 4
+    "parent1": "gold",
+    "parent2": "lapis",
+    "feedItem": "cyclic:apple_emerald"
   },
   "TraitData": {}
 }

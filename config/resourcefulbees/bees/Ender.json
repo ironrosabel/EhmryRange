@@ -27,7 +27,8 @@
     "spawnWeight": 20
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "feedItem": "minecraft:ender_eye"
   },
   "TraitData": {
     "hasTraits": true

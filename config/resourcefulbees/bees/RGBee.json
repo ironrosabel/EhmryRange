@@ -20,7 +20,8 @@
     "biomeBlacklist": "tag:ocean"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "feedItem": "minecraft:glowstone_dust"
   },
   "TraitData": {}
 }

@@ -19,12 +19,15 @@
     "mainOutput": "mysticalagriculture:glowstone_essence"
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "tag:nether",
     "lightLevel": "NIGHT"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "parent1": "creeper",
+    "parent2": "quartz",
+    "feedItem": "minecraft:golden_nugget"
   },
   "TraitData": {
     "hasTraits": true

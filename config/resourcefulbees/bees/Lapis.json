@@ -20,12 +20,16 @@
     "mainOutputCount": 1
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "tag:OVERWORLD",
     "biomeBlacklist": "tag:ocean"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "parent1": "icy",
+    "parent2": "iron",
+    "feedItem": "cyclic:apple_lapis"
+   
   },
   "TraitData": {}
 }
