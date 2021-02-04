@@ -52,7 +52,7 @@
 	#####################################################################################
 	[cyclic.command]
 		#True means only players with OP can use this /cyclic command
-		gethome = false
+		gethome = true
 		#True means only players with OP can use this /cyclic command
 		help = false
 		#True means only players with OP can use this /cyclic command
@@ -62,9 +62,9 @@
 		#True means only players with OP can use this /cyclic command
 		hunger = true
 		#True means only players with OP can use this /cyclic command
-		nbtprint = false
+		nbtprint = true
 		#True means only players with OP can use this /cyclic command
-		pingnether = false
+		pingnether = true
 		#True means only players with OP can use this /cyclic command
 		worldspawn = true
 
