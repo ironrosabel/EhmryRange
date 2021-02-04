@@ -21,10 +21,12 @@
     "hasCentrifugeOutput": false
   },
   "SpawnData": {
-    "canSpawnInWorld": false
+    "canSpawnInWorld": true,
+    "biomeWhitelist": "TAG:Mountain,Hills"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "feedItem": "minecraft:blue_ice"
   },
   "TraitData": {
     "hasTraits": true

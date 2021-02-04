@@ -38,3 +38,15 @@ craftingTable.removeRecipe(<item:cyclic:crystal_pickaxe>);
 craftingTable.removeRecipe(<item:cyclic:crystal_axe>);
 craftingTable.removeRecipe(<item:cyclic:crystal_shovel>);
 craftingTable.removeRecipe(<item:cyclic:crystal_hoe>);
+
+//Adding Apple Recipes
+
+craftingTable.addShaped("Emerald Apple", <item:cyclic:apple_emerald>, [
+     [<item:minecraft:emerald_block>, <item:minecraft:emerald_block>, <item:minecraft:emerald_block>],
+     [<item:minecraft:emerald_block>, <item:minecraft:enchanted_golden_apple>, <item:minecraft:emerald_block>],
+     [<item:minecraft:emerald_block>, <item:minecraft:emerald_block>, <item:minecraft:emerald_block>]]);
+
+craftingTable.addShaped("Diamond Apple", <item:cyclic:apple_diamond>, [
+     [<item:minecraft:diamond_block>, <item:minecraft:diamond_block>, <item:minecraft:diamond_block>],
+     [<item:minecraft:diamond_block>, <item:minecraft:enchanted_golden_apple>, <item:minecraft:diamond_block>],
+     [<item:minecraft:diamond_block>, <item:minecraft:diamond_block>, <item:minecraft:diamond_block>]]);
