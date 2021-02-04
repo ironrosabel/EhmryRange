@@ -16,7 +16,7 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:gold_ingot"
+    "mainOutput": "mysticalagriculture:gold_essence"
   },
   "SpawnData": {
     "canSpawnInWorld": true,

@@ -16,8 +16,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:lapis_lazuli",
-    "mainOutputCount": 8
+    "mainOutput": "mysticalagriculture:lapis_lazuli_essence",
+    "mainOutputCount": 1
   },
   "SpawnData": {
     "canSpawnInWorld": true,

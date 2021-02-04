@@ -15,7 +15,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:emerald"
+    "mainOutput": "mysticalagriculture:emerald_essence"
+    "mainOutputWeight": 0.50
   },
   "SpawnData": {
     "canSpawnInWorld": true,

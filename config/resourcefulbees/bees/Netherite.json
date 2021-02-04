@@ -16,8 +16,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:netherite_ingot",
-    "mainOutputWeight": 0.05
+    "mainOutput": "minecraft:netherite_scrap",
+    "mainOutputWeight": 0.15
   },
   "SpawnData": {
     "canSpawnInWorld": true,

@@ -17,7 +17,7 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:ender_pearl",
+    "mainOutput": "mysticalagriculture:enderman_essence",
     "bottleOutput" : "minecraft:dragon_breath"
   },
   "SpawnData": {

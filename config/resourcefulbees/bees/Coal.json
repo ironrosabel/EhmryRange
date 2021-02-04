@@ -16,8 +16,8 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:coal",
-    "mainOutputCount": 16
+    "mainOutput": "mysticalagriculture:coal_essence",
+    "mainOutputCount": 1
   },
   "SpawnData": {
     "canSpawnInWorld": true,

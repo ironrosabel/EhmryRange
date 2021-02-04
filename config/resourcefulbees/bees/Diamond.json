@@ -16,11 +16,11 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:diamond",
-    "mainOutputCount": 1
+    "mainOutput": "mysticalagriculture:diamond_essence",
+    "mainOutputWeight": 0.25
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "tag:OVERWORLD",
     "biomeBlacklist": "tag:ocean"
   },
@@ -28,7 +28,7 @@
     "isBreedable": true,
     "parent1": "Coal",
     "parent2": "Skeleton",
-    "feedItem": "tag:forge:ores"
+    "feedItem": "minecraft:enchanted_golden_apple"
   },
   "TraitData": {}
 }

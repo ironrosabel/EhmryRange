@@ -16,7 +16,7 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:glowstone_dust"
+    "mainOutput": "mysticalagriculture:glowstone_essence"
   },
   "SpawnData": {
     "canSpawnInWorld": true,
