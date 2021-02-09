@@ -1,0 +1,9 @@
+{
+	id: 6,
+	filename: "mystical_agriculture",
+	order_index: 3,
+	title: "Mystical Agriculture",
+	icon: "mysticalagriculture:master_infusion_crystal",
+	default_quest_shape: "",
+	quests: []
+}

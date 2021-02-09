@@ -1,0 +1,9 @@
+{
+	id: 7,
+	filename: "exploration",
+	order_index: 4,
+	title: "Exploration",
+	icon: "minecraft:ender_eye",
+	default_quest_shape: "",
+	quests: []
+}
