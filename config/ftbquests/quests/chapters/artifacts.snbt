@@ -1,0 +1,13 @@
+{
+	id: 25,
+	filename: "artifacts",
+	order_index: 6,
+	title: "Artifacts",
+	icon: {
+		id: "forbidden_arcanus:eternal_stella",
+		Count: true,
+		tag: {}
+	},
+	default_quest_shape: "",
+	quests: []
+}
