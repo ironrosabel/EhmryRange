@@ -1,0 +1,21 @@
+[20:44:01.299][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[20:44:02.075][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'aquaculture' at version '1.16.5-2.1.18'
+'ars_nouveau' at version '1.15.1'
+'bloodmagic' at version '1.16.4-3.1.0-15'
+'botania' at version '1.16.5-415'
+'botanypots' at version '7.0.17'
+'champions' at version '1.16.5-2.0.1.5'
+'contenttweaker' at version '1.0.0.develop.11'
+'crafttweaker' at version '7.1.0.255'
+'cyclic' at version '1.16.5-1.2.7'
+'iceandfire' at version '2.1.6-1.16.4'
+'immersiveengineering' at version '1.16.5-4.2.4-134'
+'jeitweaker' at version '1.0.1.15'
+'mysticalagriculture' at version '4.1.7'
+[20:44:03.191][CONSTRUCT][CLIENT][ERROR] BracketResolve "tooltype" was registered twice: 'public static com.blamejared.contenttweaker.wrappers.MCToolType com.blamejared.contenttweaker.brackets.BracketHandlers.getToolType(java.lang.String)' and 'public static net.minecraftforge.common.ToolType com.blamejared.crafttweaker.impl.brackets.BracketHandlers.getToolType(java.lang.String)'
+[20:44:03.249][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[20:44:06.297][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'contenttweaker'!
+[20:44:06.800][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
+[20:44:06.801][LOAD_REGISTRIES][CLIENT][INFO] Could not find resource loader mod, no resource pack will be generated!
+[20:44:06.801][LOAD_REGISTRIES][CLIENT][INFO] Could not find resource loader mod, no data pack will be generated!

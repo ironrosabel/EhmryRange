@@ -26,7 +26,7 @@
   },
   "BreedData": {
     "isBreedable": true,
-    "feedItem": "minecraft:packed_ice"
+    "feedItem": "minecraft:blue_ice"
   },
   "TraitData": {
     "hasTraits": true

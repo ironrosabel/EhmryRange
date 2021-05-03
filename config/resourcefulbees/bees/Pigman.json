@@ -25,8 +25,8 @@
   },
   "BreedData": {
     "isBreedable": true,
-    "parent1": "zombie",
-    "parent2": "nether_quartz",
+    "parent1": "creeper",
+    "parent2": "quartz",
     "feedItem": "minecraft:golden_nugget"
   },
   "TraitData": {
