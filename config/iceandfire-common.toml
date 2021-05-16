@@ -25,7 +25,7 @@
 	"Generate Dragon Caves" = true
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Generate Dragon Cave Chance" = 300
+	"Generate Dragon Cave Chance" = 150
 	#Whether to generate dragon roosts or not
 	"Generate Dragon Roosts" = true
 	#1 out of this number chance per chunk for generation
@@ -193,7 +193,7 @@
 	"Spawn Death Worms" = true
 	#True if wild deathworms are allowed to target and attack monsters
 	"Death Worms Target Monsters" = true
-	#Deathworm spawn weight. Lower = lower chance to spawn
+	#Deathworm spawn weight. Higher = lower chance to spawn
 	#Range: 1 ~ 10000
 	"Death Worm Spawn Weight" = 30
 	#A double check to see if the game can spawn death worms. Higher number = lower chance to spawn.
@@ -345,13 +345,13 @@
 	"Chunk Load Summon Crystal" = true
 	#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn(0, 0).
 	#Range: 1 ~ 10000
-	"Dangerous World Gen Dist From Spawn" = 1500
+	"Dangerous World Gen Dist From Spawn" = 3000
 	#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 	#Range: 1 ~ 10000
 	"Dangerous World Gen Dist Seperation" = 300
 	#Change this to slow down or speed up dragon or amphithere flight.
 	#Range: 0.0 ~ 2.0
-	"Dragon Flight Speed Modifier" = 1.0
+	"Dragon Flight Speed Modifier" = 1.2
 	#Whether to generate graveyards or not
 	"Generate Graveyards" = true
 	#Graveyard rarity.

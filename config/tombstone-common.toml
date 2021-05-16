@@ -36,12 +36,11 @@
 	prevent_death_outside_world = false
 	#Whether graves should be allowed to bypass anti-griefing rules [false/true|default:true]
 	graves_bypass_griefing_rules = true
-	#Automatically equips any equipable items when respawning after a death [false/true|default:true]
-	auto_equip_on_death_respawn = true
-	#Allows player's graves to appear in water [false/true|default:true]
-	allow_grave_in_water = true
 	#Allows to fill an existing grave instead of creating a new one [false/true|default:true]
 	allow_to_fill_existing_grave = true
+	#Percent of stolen experience by killing a player when PvP mode is enabled [0..100|default:30]
+	#Range: 0 ~ 100
+	pvp_stolen_xp = 30
 
 #Options related to player's alignment
 [alignment]
@@ -103,6 +102,9 @@
 	cooldown_teleport_bind = -1
 	#Fishing treasures can only be found in open water [false/true|default:true]
 	fishing_treasure_in_open_water = true
+	#Cooldown in minutes to use the perk Tomb Raider [0..1440|default:0]
+	#Range: 0 ~ 1440
+	cooldown_tomb_raiding = 60
 
 #Allows to define the conditions for a village siege to begin
 [village_siege]
@@ -154,6 +156,8 @@
 	#Duration of voodoo poppet's effects in seconds when preventing death [5..60000|default:60]
 	#Range: 5 ~ 60000
 	duration_voodoo_poppet_effects = 60
+	#Allows to replace a grave plate already set on a grave [false/true|default:true]
+	can_replace_grave_plate = true
 
 #Allows to customize or disable the enchantments
 [enchantments]
@@ -161,12 +165,15 @@
 	restrict_shadow_step_to_player = true
 	#The wearer is also affected by the effect if his alignment is not bad [false/true|default:true]
 	nerf_plague_bringer = true
-	#Maximum duration of stolen effects in minutes [1..MAX|default:1440]
+	#Maximum duration of stolen effects in minutes [1..MAX|default:60]
 	#Range: > 1
 	max_duration_magic_siphon = 1440
 	#Duration of applied effects in seconds [1..MAX|default:10]
 	#Range: > 1
 	duration_plague_bringer = 10
+	#Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10% of the initial effect [ALLOW/NERFED/DISALLOW|default:ALLOW]
+	#Allowed Values: ALLOW, NERFED, DISALLOW
+	magic_siphon_on_player_rule = "ALLOW"
 
 #Options related to the command recovery and auto-save of players
 [recovery]
@@ -204,6 +211,8 @@
 	chance_grave_dust = 100
 	#Defines the allowed loottables having a chance to contain a magic item from Tombstone
 	treasure_loot_table = ["minecraft:chests/end_city_treasure", "minecraft:chests/abandoned_mineshaft", "minecraft:chests/nether_bridge", "minecraft:chests/stronghold_library", "minecraft:chests/desert_pyramid", "minecraft:chests/jungle_temple", "minecraft:chests/igloo_chest", "minecraft:chests/woodland_mansion"]
+	#The magic items from Tombstone can only be found as creature loot if the player is the killer [false/true|default:true]
+	drop_only_on_player_kill = true
 
 #Allows to enable some features related to others mods
 [compatibility]
@@ -211,4 +220,6 @@
 	allow_curio_auto_equip = true
 	#Keeps the cosmetic armor when you die [false/true|default:true]
 	keep_cosmetic_armor = true
+	#Ensure the potion effects to stay on the player after returning from end conquered [false/true|default:true]
+	preserve_effects_on_return_end_conquered = true
 

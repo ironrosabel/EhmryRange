@@ -1,0 +1,6 @@
+{
+  "inventory": {
+    "0:0": "{id:\"usefulbackpacks:backpack_medium\",Count:1b,tag:{Items:[{Slot:0b,id:\"alexsmobs:animal_dictionary\",Count:1b},{Slot:1b,id:\"astralsorcery:tome\",Count:1b},{Slot:2b,id:\"silentgear:blueprint_package\",Count:1b,tag:{silentlib.LootContainer:{LootTable:\"silentgear:starter_blueprints\"}}},{Slot:3b,id:\"ars_nouveau:worn_notebook\",Count:1b},{Slot:4b,id:\"silentgear:guide_book\",Count:1b},{Slot:5b,id:\"naturescompass:naturescompass\",Count:1b,tag:{}},{Slot:6b,id:\"comforts:sleeping_bag_white\",Count:1b}]}}"
+  },
+  "wipeBlacklist": []
+}

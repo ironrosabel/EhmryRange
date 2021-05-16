@@ -113,7 +113,7 @@
 	#
 	#Sets the max RF/t that the centrifuge can receive. This should ideally be set higher than centrifugeRfPerTick.
 	#Range: 100 ~ 10000
-	maxCentrifugeReceiveRate = 1
+	maxCentrifugeReceiveRate = 100
 
 ["Beehive Options"]
 	#

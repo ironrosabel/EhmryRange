@@ -1,11 +1,12 @@
 {
-	id: 25,
+	id: "0000000000000019",
+	group: "",
+	order_index: 5,
 	filename: "artifacts",
-	order_index: 6,
 	title: "Artifacts",
 	icon: {
 		id: "forbidden_arcanus:eternal_stella",
-		Count: true,
+		Count: 1b,
 		tag: {}
 	},
 	default_quest_shape: "",

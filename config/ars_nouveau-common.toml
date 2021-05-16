@@ -9,13 +9,30 @@
 	#Spawn Mana Berry Bushes in the world
 	genBerries = true
 	#Spawn a book in the players inventory on login
-	spawnBook = true
+	spawnBook = false
 	#How often Carbuncles spawn
 	#Range: 0 ~ 100
 	carbuncleWeight = 5
 	#How often Sylphs spawn
 	#Range: 0 ~ 100
 	sylphWeight = 5
+	#Dimensions where hostile mobs will not spawn. Ex: minecraft:overworld. Run /forge dimensions for a list.
+	dimensionBlacklist = []
+	#How often Wilden Guardians spawn
+	#Range: 0 ~ 200
+	wguardianWeight = 50
+	#How often Wilden Stalkers spawn
+	#Range: 0 ~ 200
+	wstalkerWeight = 50
+	#How often Wilden Hunter spawn
+	#Range: 0 ~ 200
+	whunterWeight = 50
+	#Should the Wilden Hunter attack animals?
+	hunterHuntsAnimals = true
+	#Should the Wilden Stalker attack animals?
+	stalkerHuntsAnimals = false
+	#Should the Wilden Defender attack animals?
+	defenderHuntsAnimals = false
 
 #Mana
 [mana]
@@ -165,6 +182,16 @@
 	wither = true
 	#Knockback enabled?
 	gust = true
+	#Underfoot enabled?
+	underfoot = true
+	#Summon Decoy enabled?
+	summon_decoy = true
+	#Summon Steed enabled?
+	summon_steed = true
+	#Hex enabled?
+	hex = true
+	#Summon Wolves enabled?
+	summon_wolves = true
 
 #Spell Cost
 [spell_cost]
@@ -342,6 +369,21 @@
 	#Knockback cost
 	#Range: > -2147483648
 	gust_cost = 15
+	#Underfoot cost
+	#Range: > -2147483648
+	underfoot_cost = 5
+	#Summon Decoy cost
+	#Range: > -2147483648
+	summon_decoy_cost = 200
+	#Summon Steed cost
+	#Range: > -2147483648
+	summon_steed_cost = 100
+	#Hex cost
+	#Range: > -2147483648
+	hex_cost = 100
+	#Summon Wolves cost
+	#Range: > -2147483648
+	summon_wolves_cost = 100
 
 #Starting Spells
 ["Starter Spells"]

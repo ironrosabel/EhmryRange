@@ -108,6 +108,8 @@
 	allow_scroll_of_lightning_resistance = true
 	#Dust of Vanishing [false/true|default:true]
 	allow_dust_of_vanishing = true
+	#Familiar Receptacle [false/true|default:true]
+	allow_familiar_receptacle = true
 
 #Allows to change the chance to drop some items
 [loot]

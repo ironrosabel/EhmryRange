@@ -1,16 +1,17 @@
 {
-	id: 2,
+	id: "0000000000000002",
+	group: "",
+	order_index: 0,
 	filename: "introduction",
-	order_index: 1,
 	title: "Introduction",
 	icon: "minecraft:writable_book",
 	default_quest_shape: "",
 	quests: [{
 		x: -18.5d,
 		y: -3.0d,
-		id: 3,
+		id: "0000000000000003",
 		tasks: [{
-			id: 4,
+			id: "0000000000000004",
 			type: "checkmark",
 			title: "Welcome",
 			icon: "minecraft:paper"

@@ -24,5 +24,7 @@
   "forge:ingots/titanium": "null",
   "forge:rubber": "null",
   "forge:dusts/sulfur": "eidolon:sulfur",
-  "forge:ingots/nickel": "alltheores:nickel_ingot"
+  "forge:ingots/nickel": "alltheores:nickel_ingot",
+  "forge:gems/apatite": "null",
+  "forge:dusts/niter": "null"
 }

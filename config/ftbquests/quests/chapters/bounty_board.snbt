@@ -1,11 +1,12 @@
 {
-	id: 8,
+	id: "0000000000000008",
+	group: "",
+	order_index: 4,
 	filename: "bounty_board",
-	order_index: 5,
 	title: "Bounty Board",
 	icon: {
 		id: "forbidden_arcanus:draco_arcanus_sword",
-		Count: true,
+		Count: 1b,
 		tag: {
 			Damage: 0
 		}
@@ -16,9 +17,9 @@
 			x: -7.0d,
 			y: 0.5d,
 			description: ["The bounty board teaches you about the dangerous mobs of the world."],
-			id: 9,
+			id: "0000000000000009",
 			tasks: [{
-				id: 10,
+				id: "000000000000000A",
 				type: "checkmark",
 				title: "Bounty Board",
 				icon: "iceandfire:troll_skull"
@@ -29,9 +30,9 @@
 			y: -4.5d,
 			shape: "rsquare",
 			description: ["Fire Dragons are dangerous foes that can be found in warm biomes."],
-			id: 11,
+			id: "000000000000000B",
 			tasks: [{
-				id: 12,
+				id: "000000000000000C",
 				type: "kill",
 				title: "Fire Dragon",
 				icon: "iceandfire:dragon_skull_fire",
@@ -44,9 +45,9 @@
 			x: -6.0d,
 			y: -4.5d,
 			shape: "rsquare",
-			id: 13,
+			id: "000000000000000D",
 			tasks: [{
-				id: 14,
+				id: "000000000000000E",
 				type: "kill",
 				icon: "iceandfire:dragon_skull_ice",
 				entity: "iceandfire:ice_dragon",
@@ -57,9 +58,9 @@
 			x: -8.0d,
 			y: -4.5d,
 			shape: "rsquare",
-			id: 15,
+			id: "000000000000000F",
 			tasks: [{
-				id: 16,
+				id: "0000000000000010",
 				type: "kill",
 				title: "Lightning Dragon",
 				icon: "iceandfire:dragon_skull_lightning",
@@ -72,9 +73,9 @@
 			y: -3.5d,
 			shape: "rsquare",
 			description: ["Trolls are regenrative monsters found underground."],
-			id: 17,
+			id: "0000000000000011",
 			tasks: [{
-				id: 18,
+				id: "0000000000000012",
 				type: "kill",
 				title: "Troll",
 				icon: "iceandfire:troll_skull",
@@ -86,9 +87,9 @@
 			x: -8.0d,
 			y: -3.5d,
 			shape: "rsquare",
-			id: 19,
+			id: "0000000000000013",
 			tasks: [{
-				id: 20,
+				id: "0000000000000014",
 				type: "kill",
 				icon: "iceandfire:cyclops_skull",
 				entity: "iceandfire:cyclops",
@@ -99,9 +100,9 @@
 			x: -6.0d,
 			y: -3.5d,
 			shape: "rsquare",
-			id: 21,
+			id: "0000000000000015",
 			tasks: [{
-				id: 22,
+				id: "0000000000000016",
 				type: "kill",
 				icon: "iceandfire:seaserpent_skull",
 				entity: "iceandfire:sea_serpent",
@@ -112,9 +113,9 @@
 			x: -7.0d,
 			y: -2.5d,
 			shape: "rsquare",
-			id: 23,
+			id: "0000000000000017",
 			tasks: [{
-				id: 24,
+				id: "0000000000000018",
 				type: "kill",
 				icon: "iceandfire:hydra_skull",
 				entity: "iceandfire:hydra",

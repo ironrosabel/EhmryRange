@@ -33,6 +33,9 @@
 		#Aluminum deposit size
 		#Range: 1 ~ 64
 		aluminum_deposit_size = 7
+		#Aluminum veins per chunk
+		#Range: 1 ~ 64
+		aluminum_vein_count = 10
 
 	[spawntuning.copper]
 		#Copper bottom Y level for spawn
@@ -44,6 +47,9 @@
 		#Copper deposit size
 		#Range: 1 ~ 64
 		copper_deposit_size = 7
+		#Copper veins per chunk
+		#Range: 1 ~ 64
+		copper_vein_count = 10
 
 	[spawntuning.zinc]
 		#Zinc bottom Y level for spawn
@@ -55,6 +61,9 @@
 		#Zinc deposit size
 		#Range: 1 ~ 64
 		zinc_deposit_size = 7
+		#Zinc veins per chunk
+		#Range: 1 ~ 64
+		zinc_vein_count = 10
 
 	[spawntuning.lead]
 		#Lead bottom Y level for spawn
@@ -66,6 +75,9 @@
 		#Lead deposit size
 		#Range: 1 ~ 64
 		lead_deposit_size = 7
+		#Lead veins per chunk
+		#Range: 1 ~ 64
+		lead_vein_count = 8
 
 	[spawntuning.nickel]
 		#Nickel bottom Y level for spawn
@@ -77,6 +89,9 @@
 		#Nickel deposit size
 		#Range: 1 ~ 64
 		nickel_deposit_size = 7
+		#Nickel veins per chunk
+		#Range: 1 ~ 64
+		nickel_vein_count = 8
 
 	[spawntuning.osmium]
 		#Osmium bottom Y level for spawn
@@ -88,6 +103,9 @@
 		#Osmium deposit size
 		#Range: 1 ~ 64
 		osmium_deposit_size = 7
+		#Osmium veins per chunk
+		#Range: 1 ~ 64
+		osmium_vein_count = 8
 
 	[spawntuning.platinum]
 		#Platinum bottom Y level for spawn
@@ -99,6 +117,9 @@
 		#Platinum deposit size
 		#Range: 1 ~ 64
 		platinum_deposit_size = 3
+		#Platinum veins per chunk
+		#Range: 1 ~ 64
+		platinum_vein_count = 6
 
 	[spawntuning.silver]
 		#Silver bottom Y level for spawn
@@ -110,6 +131,9 @@
 		#Silver deposit size
 		#Range: 1 ~ 64
 		silver_deposit_size = 5
+		#Silver veins per chunk
+		#Range: 1 ~ 64
+		silver_vein_count = 8
 
 	[spawntuning.tin]
 		#Tin bottom Y level for spawn
@@ -121,6 +145,9 @@
 		#Tin deposit size
 		#Range: 1 ~ 64
 		tin_deposit_size = 7
+		#Tin veins per chunk
+		#Range: 1 ~ 64
+		tin_vein_count = 10
 
 	[spawntuning.uranium]
 		#Uranium bottom Y level for spawn
@@ -132,4 +159,7 @@
 		#Uranium deposit size
 		#Range: 1 ~ 64
 		uranium_deposit_size = 4
+		#Uranium veins per chunk
+		#Range: 1 ~ 64
+		uranium_vein_count = 6
 

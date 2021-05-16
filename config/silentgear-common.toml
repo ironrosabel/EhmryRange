@@ -87,6 +87,10 @@
 	damageFactorLevels = 10
 	#If true, gear breaks permanently, like vanilla tools and armor
 	breaksPermanently = false
+	#If set to false all conversion recipes (type 'silentgear:conversion') will be disabled
+	#An example of a conversion recipe is placing a vanilla stone pickaxe into a crafting grid to make a Silent Gear stone pickaxe
+	#Note: This also affects conversion recipes added by data packs and other mods
+	allowConversionRecipes = true
 
 	[gear.prospector_hammer]
 		#The range in blocks the prospector hammer will search for blocks of interest
@@ -119,6 +123,12 @@
 	[gear.upgrades]
 		#If true, upgrade parts may only be applied in an anvil.
 		applyInAnvilOnly = false
+
+	[gear.saw]
+		#Caps how far the saw can look for blocks when chopping down trees. Try decreasing this if you get stack overflow exceptions.
+		#Increasing this value is allowed, but not recommended unless you know what you are doing.
+		#Range: > 0
+		recursionDepth = 200
 
 #Settings for the salvager
 [salvager]
@@ -159,11 +169,13 @@
 		#Range: 0 ~ 1000
 		tryCount = 16
 
-[compat]
-
-	[compat.mineAndSlash]
-		#Enable compatibility with the Mine and Slash mod, if installed
-		enabled = true
+	[world.wildFluffy]
+		#Number of patches of wild fluffy plants to attempt to place per chunk (some biomes only)
+		#Range: 0 ~ 100
+		patchCount = 1
+		#Block place attempts per wild fluffy plants cluster
+		#Range: 0 ~ 1000
+		tryCount = 16
 
 [debug]
 
@@ -176,4 +188,10 @@
 		#Log information on construction of gear and part models, as well as textures they attempt to load.
 		#This is intended to help find and fix rare issues that some users are experiencing.
 		modelAndTexture = true
+		#Log details about certain features being adding to biomes and other world generator details
+		worldGen = true
+
+[other]
+	#Set to false to remove the text from tooltips
+	showWipText = true
 
