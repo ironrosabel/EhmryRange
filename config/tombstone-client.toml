@@ -19,17 +19,15 @@
 	show_shadow_step = true
 	#Shows shield particles on villager [false/true|default:true]
 	show_shield_particle = true
-	#Enables the special rendering and particles for Halloween [false/true|default:true]
-	enable_halloween_effect = true
 	#Decimal value for the color of the grave text <Death Date> [0..16777215|default:2962496]
 	#Range: 0 ~ 16777215
-	text_color_death_date = 2962496
+	text_color_death_date = 16711680
 	#Decimal value for the color of the grave text <R.I.P.> [0..16777215|default:2962496]
 	#Range: 0 ~ 16777215
-	text_color_rip = 2962496
+	text_color_rip = 16711680
 	#Decimal value for the color of the grave text <Owner Name> [0..16777215|default:5991302]
 	#Range: 0 ~ 16777215
-	text_color_owner = 5991302
+	text_color_owner = 16711680
 	#Shows only the elapsed minecraft days since the death on graves [false/true|default:false]
 	date_in_mc_time = false
 	#Display or not the messages of gain of points in knowledge of death [false/true|default:true]
@@ -38,7 +36,7 @@
 	equip_elytra_in_priority = false
 	#Favorite grave
 	#Allowed Values: GRAVE_SIMPLE, GRAVE_NORMAL, GRAVE_CROSS, TOMBSTONE, SUBARAKI_GRAVE, GRAVE_ORIGINAL
-	favorite_grave = "GRAVE_SIMPLE"
+	favorite_grave = "SUBARAKI_GRAVE"
 	#Favorite grave marble
 	#Allowed Values: DARK, WHITE
 	favorite_grave_marble = "DARK"
@@ -67,4 +65,6 @@
 	#Defines when to automatically equip your items [NEVER/GRAVE_RECOVERY/DEATH_RESPAWN/ALWAYS|default:ALWAYS]
 	#Allowed Values: NEVER, GRAVE_RECOVERY, DEATH_RESPAWN, ALWAYS
 	auto_equip_rule = "ALWAYS"
+	#Allows the ghost to appear around you during Halloween [false/true|default:true]
+	allow_halloween_ghost = true
 

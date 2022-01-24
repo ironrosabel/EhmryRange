@@ -24,6 +24,8 @@
 	"Occlude WEATHER Sounds" = false
 	#Occlude RECORDS sounds
 	"Occlude RECORDS Sounds" = false
+	#Enable HRTF processing in OpenAL
+	"Enable HRTF Processing" = false
 
 #Defines parameters for special effects
 ["Effect Options"]

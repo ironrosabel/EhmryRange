@@ -273,3 +273,12 @@
 	#Enable the addition of Redstone Golems to raids. [true / false]
 	enableRedstoneGolemsInRaids = true
 
+#Vanilla Mob Configuration
+[vanilla_mob_configuration]
+	#Enable the addition of additional attributes to Husks to make them as powerful as they are in Minecraft Dungeons. [true / false]
+	enableStrongerHusks = true
+	#Enables Spiders and Cave Spiders shooting webs as a ranged attack like they do in Minecraft Dungeons. [true / false]
+	enableRangedSpiders = true
+	#Enables Illusioners to have the same cloning behavior as they do in Minecraft Dungeons. [true / false]
+	enableCloningIllusioners = true
+
