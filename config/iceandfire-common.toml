@@ -85,7 +85,7 @@
 		#Range: 0.0 ~ 1.0
 		"Dragon Block Breaking Drop Chance" = 0.10000000149011612
 		#Blocks that a dragon cannot break. Use the format like "minecraft:chest" or "rats:block_of_cheese" 
-		blacklistedBreakBlocks = ["minecraft:spawner", "minecraft:lever", "cylic:spikes_iron", "cylic:spikes_fire", "cylic:spikes_curse"]
+		blacklistedBreakBlocks = ["minecraft:spawner", "minecraft:lever", "minecraft:hopper", "cyclic:item_pipe", "cylic:spikes_iron", "cylic:spikes_fire", "cylic:spikes_curse", "cyclic:unbreakable_block", "cyclic:unbreakable_reactive"]
 		#Blocks that a dragon can break, but won't spawn drops for. Use the format like "minecraft:stone" or "rats:block_of_cheese" 
 		noDropBreakBlocks = ["minecraft:stone", "minecraft:dirt", "minecraft:grass_block"]
 
